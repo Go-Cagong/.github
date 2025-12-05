@@ -102,7 +102,9 @@ AI가 자동으로 요약해 핵심만 보여주기 때문에 **빠른 판단이
 
 * **네이버 리뷰 자동 크롤링 및 텍스트 요약 모델**
 
-<img width="2816" height="1536" alt="go_cagong_sys-arch" src="https://github.com/user-attachments/assets/b47533df-db0a-485f-bb18-4a406b42e856" />
+<!-- <img width="2816" height="1536" alt="go_cagong_sys-arch" src="https://github.com/user-attachments/assets/b47533df-db0a-485f-bb18-4a406b42e856" /> -->
+<img width="949" height="411" alt="고카공_시스템아키텍쳐" src="https://github.com/user-attachments/assets/a2cb9999-a0b0-4978-a450-2c7bea0524d4" />
+
 
 ## 🙎‍♂️ Our Team
 | 김재웅 | 이재혁 | 송창식 | 안재일 | 박혜일 |
