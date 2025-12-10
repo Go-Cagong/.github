@@ -112,7 +112,7 @@ AI가 자동으로 요약해 핵심만 보여주기 때문에 **빠른 판단이
 | <img src="https://github.com/grbuguj.png" width="150px" height="150px"/> | <img src="https://github.com/jaehyuk917.png" width="150px" height="150px" /> | <img src="https://github.com/TedCkd.png" width="150px" height="150px" /> | <img src="https://github.com/jaeiling.png" width="150px" height="150px"> | <img src="https://github.com/Tsunami1030.png" width="150px" height="150px"/> |
 | [@grbuguj](https://github.com/grbuguj) | [@jaehyuk917](https://github.com/jaehyuk917) | [@TedCkd](https://github.com/TedCkd) | [@jaeiling](https://github.com/jaeiling) | [@Tsunami1030](https://github.com/Tsunami1030) |
 | 팀장 | 팀원 | 팀원 | 팀원 | 팀원 |
-| BackEnd | FrontEnd | FrontEnd | BackEnd | BackEnd |
+| FullStack | FrontEnd | FrontEnd | BackEnd | BackEnd |
 
 *copyright 2025. [Team Go-Cagong] All Rights Reserved.*
 
