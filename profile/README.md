@@ -4,8 +4,10 @@
 
 Go-Cagong은 일반 카페 중에서 *카공(카페에서 공부/작업)*에 적합한 장소를 손쉽게 찾을 수 있도록 만드는 서비스입니다.
 지도 기반 탐색, AI 요약 리뷰, 영수증 인증 리뷰 기능을 통해 **신뢰도 높은 카페 정보 플랫폼**을 제공합니다.
-
-발표자료 : https://www.canva.com/design/DAG6nwMSaPg/WMz9Aa9lbIDJp9E2GykRiQ/view?utm_content=DAG6nwMSaPg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc2301de2a6
+<div>
+      <strong><a href="https://www.canva.com/design/DAG6nwMSaPg/WMz9Aa9lbIDJp9E2GykRiQ/view?utm_content=DAG6nwMSaPg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc2301de2a6" target="_blank">>발표자료 바로가기<
+</div>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2489d715-c9e5-4ead-83a1-3b5fb7dee8a9" />
 
 ---
 
